@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# **PFF 530 Group 2 Wicked Problem**
 
-You can use the [editor on GitHub](https://github.com/cinsbox/PFF-530-Wicked-Problem-Group-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Our presentation of a wicked problem in education, ‘A Foster Child’s Path to Success in School’ took place on July 29, 2020 and was delivered to The Journey School’s 27 teachers and administrators. The Journey School is a TK-6 elementary school in Moreno Valley, CA. The presentation covered the current literature, research, flow maps, statistics and data on foster youth in California for the purposes of teacher collaboration and the identification of an action plan. Following our presentation, our conclusion reinforced the need for a social and emotional learning curriculum including restorative justice practices.
 
-### Markdown
+### Purpose
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-```markdown
-Syntax highlighted code block
+### TBD
 
-# Header 1
-## Header 2
-### Header 3
+####  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- Bulleted
-- List
+### Agenda
 
-1. Numbered
-2. List
+#### The presentation covers
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cinsbox/PFF-530-Wicked-Problem-Group-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### TLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -27,10 +27,7 @@
 * Foster Child's Path to Success Flow Map 
 * Action Plan 
 * Closing 
-
-### Presentaton Recording
-#### The recorded team presentation is uploaded to YouTube with time links to allow the viewers to move to the section(s) of their interest. 
-#### ![The presentation video is here](https://youtu.be/QvB8B-CHNyE)
+#### [The presentation video is here](https://youtu.be/QvB8B-CHNyE)
 
 ### References
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

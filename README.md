@@ -28,7 +28,7 @@
 * Action Plan 
 * Closing 
 
-#### The presentation is recorded and uploaded to YouTube.  Time links are included to make viewing easier.  [Link to the recording is here.](https://youtu.be/QvB8B-CHNyE)
+#### The presentation is recorded and uploaded to YouTube.  Time links are included to make viewing easier.  The link to the recording is [here.](https://youtu.be/QvB8B-CHNyE)
 
 ### References
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -12,13 +12,24 @@
 
 ####  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Agenda/Video
+### Presentation Agenda
 
-#### [Presentation Video](https://youtu.be/QvB8B-CHNyE)
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#### The presentation is organized into: 
+* Introduction
+* Agenda
+* Journey down the river 
+* What's foster care
+* Foster care statistics 
+* Break 
+* Warm-up activity
+* All Steps to School Success Stocks Map
+* Three Rivers that Propel Foster Student Through School Flow Map
+* Foster Child's Path to Success Flow Map 
+* Action Plan 
+* Closing 
+
+### Presentaton Recording
+#### ![The Recorded Presentation can be found here](https://youtu.be/QvB8B-CHNyE)
 
 ### References
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

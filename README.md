@@ -31,6 +31,12 @@
 * Closing 
 
 ### References
+* [Adoption and Foster Care Statistics](https://www.acf.hhs.gov/cb/research-data-technology/statistics-research/afcars)
+* [What is Foster Care](https://www.childwelfare.gov/topics/outofhome/foster-care/)
+* [Foster Care with MacKillop](https://slideplayer.com/slide/9413628/)
+* [Who are Foster Parents](https://www.slideshare.net/sstewart1081/mgd-120-foster-care-ppt)
+* [Piels et al: Lessons Learned from College Support Programs for Students with a History of Foster Care](https://www.tandfonline.com/doi/full/10.1080/19496591.2019.1644117)
+* [Merdinger et al: Pathways to College for Former Foster Youth: Understanding Factors that Contribute to Educational Success](https://eric.ed.gov/?id=EJ739978)
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

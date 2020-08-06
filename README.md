@@ -29,7 +29,8 @@
 * Closing 
 
 ### Presentaton Recording
-#### ![The Recorded Presentation can be found here](https://youtu.be/QvB8B-CHNyE)
+#### The recorded team presentation is uploaded to YouTube with time links to allow the viewers to move to the section(s) of their interest. 
+#### ![The presentation video is here](https://youtu.be/QvB8B-CHNyE)
 
 ### References
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

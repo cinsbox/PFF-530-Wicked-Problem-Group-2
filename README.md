@@ -37,7 +37,12 @@
 * [Who are the Foster Parents (2010)](https://www.slideshare.net/sstewart1081/mgd-120-foster-care-ppt)
 * [Lessons Learned from College Support Programs for Students with a History of Foster Care (2020)](https://www.tandfonline.com/doi/full/10.1080/19496591.2019.1644117)
 * [Pathways to College for Former Foster Youth: Understanding Factors that Contribute to Educational Success (2005)](https://eric.ed.gov/?id=EJ739978)
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+* [The Effects of Placement and School Stability on Academic Growth Trajectories of Students in Foster Care (2018)](https://www.unco.edu/cebs/foster-care-research/pdf/Academic-Growth-Trajectories.pdf)
+* [Legal Professional Perspectives on Barriers and Supports for School-Aged Students and Families during Reunification from Foster Care (2019)](https://ideas.repec.org/a/eee/cysrev/v107y2019ics0190740919305365.html)
+* [Maximizing Academic Success for Foster Care Students: A Trauma-Informed Approach. Journal of At-Risk Issues (2018)](https://eric.ed.gov/?id=EJ1148240)
+* [Addressing the Invisible Achievement Gap: The Need to Improve Education Outcomes for California Students in Foster Care, with Considerations for Action. CenterView: Insight and Analysis on California’s Education Policy (2014)](https://eric.ed.gov/?id=ED559637)
+* [From Foster Care to College: Student Stories of Success (2017)](https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=3975&context=etd)
+* [Maintaining Basic Skills through Summer Thematic Tutoring with Exceptional Students in Residential Foster Care (1995)](https://files.eric.ed.gov/fulltext/ED393223.pdf)
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

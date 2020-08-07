@@ -10,7 +10,7 @@
 
 ### Audience
 
-####  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### The audience is composed of 24 elementary school teachers, ranging from grades TK - 6th, including 3 SPED teachers and one PE teacher. A social emotional learning(SEL) curriculum and a restorative practices policy were both first introduced in the 2019 - 2020 school year. Teachers are expected to teach a minimum of one SEL lesson per week and provide ongoing SEL support to students as often as needed. Teachers have received training on SEL strategies such as restorative circles and provided resources that they are expected to implement in their classrooms. 
 
 ### Team Presentation
 

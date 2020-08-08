@@ -30,7 +30,7 @@
 * Action Plan 
 * Closing 
 
-#### The [presentation slides](https://github.com/cinsbox/PFF-530-Wicked-Problem-Group-2/blob/master/WP-PathwayToSuccess.pptx) and the [transdisciplinary principles poster](https://github.com/cinsbox/PFF-530-Wicked-Problem-Group-2/blob/master/TransdisciplinaryPrinciples.pptx) are available for download.  
+#### The [presentation slides](https://github.com/cinsbox/PFF-530-Wicked-Problem-Group-2/raw/master/WP-PathwayToSuccess.pptx) and the [transdisciplinary principles poster](https://github.com/cinsbox/PFF-530-Wicked-Problem-Group-2/blob/master/TransdisciplinaryPrinciples.pptx) are available for download.  
 
 ### References
 * [Adoption and Foster Care Statistics (2018)](https://www.acf.hhs.gov/cb/research-data-technology/statistics-research/afcars)

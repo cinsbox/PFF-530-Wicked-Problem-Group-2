@@ -45,4 +45,4 @@
 * [Maintaining Basic Skills through Summer Thematic Tutoring with Exceptional Students in Residential Foster Care (1995)](https://files.eric.ed.gov/fulltext/ED393223.pdf)
 * [Graduating From College Still a Struggle for Many California Foster Youth (2019)](https://edsource.org/2019/despite-enrollment-growth-graduating-from-college-still-a-struggle-for-many-california-foster-youth/613969)
 
-###### TLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+###### This content is created specifically for Summer 2020 PFF 530 (Prepare Future Faculty) course's wicked problem group project. The team consists of four PhD students: Cindy Cheng, Christine D'Amico, Eric Thomas and Jamila Vorise.  

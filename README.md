@@ -6,11 +6,11 @@
 
 ### Purpose
 
-#### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### Helping foster youth succeed at school is a wicked problem.  Sadly the current state of school success for foster youth is very low.  According to EdSource, high school graduation rates for foster youth are currently at 59%, compared to 83% for all high school students.  For those students who do make it to college, only 49.6% are still there after the first two semesters.  That leaves 50.4% of foster youth dropping out of higher education at some point within their first two semesters.  Our Wicked Problem Group took on this issue to explore and better understand the challenges that limit school success for foster youth as well as the supports that allow some foster youth to make it through high school and then go on to succeed in college.  We then had an opportunity to present this information to teachers at the Journcy School. The purpose of this presentation was to inform the teachers about the challenges foster youth face as they work to succeed in school.  We wanted these teachers to know they could be a part of making a difference for these youth and moving them to a better place in the future.  We also had the purpose of linking the needs of foster youth to the school wide social-emotional learning (SEL) program, and giving them an opportunity to see the impact this SEL program could have on all students with the different life challenges they face.  
 
 ### Audience
 
-#### The audience is composed of 24 elementary school teachers, ranging from grades TK - 6th, including 3 SPED teachers and one PE teacher. A social emotional learning(SEL) curriculum and a restorative practices policy were both first introduced in the 2019 - 2020 school year. Teachers are expected to teach a minimum of one SEL lesson per week and provide ongoing SEL support to students as often as needed. Teachers have received training on SEL strategies such as restorative circles and provided resources that they are expected to implement in their classrooms. 
+#### The audience is composed of 24 elementary school teachers, ranging from grades TK - 6th, including 3 SPED teachers and one PE teacher. A SEL curriculum and a restorative practices policy were both first introduced in the 2019 - 2020 school year. Teachers are expected to teach a minimum of one SEL lesson per week and provide ongoing SEL support to students as often as needed. Teachers have received training on SEL strategies such as restorative circles and provided resources that they are expected to implement in their classrooms. 
 
 ### Team Presentation
 
@@ -43,8 +43,6 @@
 * [Addressing the Invisible Achievement Gap: The Need to Improve Education Outcomes for California Students in Foster Care, with Considerations for Action. CenterView: Insight and Analysis on California’s Education Policy (2014)](https://eric.ed.gov/?id=ED559637)
 * [From Foster Care to College: Student Stories of Success (2017)](https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=3975&context=etd)
 * [Maintaining Basic Skills through Summer Thematic Tutoring with Exceptional Students in Residential Foster Care (1995)](https://files.eric.ed.gov/fulltext/ED393223.pdf)
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+* [Graduating From College Still a Struggle for Many California Foster Youth (2019)](https://edsource.org/2019/despite-enrollment-growth-graduating-from-college-still-a-struggle-for-many-california-foster-youth/613969)
 
 ###### TLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

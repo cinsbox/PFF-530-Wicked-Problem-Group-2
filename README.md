@@ -14,7 +14,7 @@
 
 ### Team Presentation
 
-#### The presentation was recorded and uploaded to YouTube.  Time links are included to make viewing easier.  The link to the recording is [here.](https://youtu.be/QvB8B-CHNyE).  The presentation slides and the transdisciplinary principles poster that accompany the presentation can be downloaded from the [repository](
+#### The presentation was recorded and uploaded to YouTube.  Time links are included to make viewing easier.  The link to the recording is [here.](https://youtu.be/QvB8B-CHNyE).  
 
 #### The presentation is broken down into: 
 * Introduction
@@ -29,6 +29,8 @@
 * Foster Child's Path to Success Flow Map 
 * Action Plan 
 * Closing 
+
+#### The [presentation slides](https://github.com/cinsbox/PFF-530-Wicked-Problem-Group-2/blob/master/WP-PathwayToSuccess.pptx) and the [transdisciplinary principles poster](https://github.com/cinsbox/PFF-530-Wicked-Problem-Group-2/blob/master/TransdisciplinaryPrinciples.pptx) are available for download.  
 
 ### References
 * [Adoption and Foster Care Statistics (2018)](https://www.acf.hhs.gov/cb/research-data-technology/statistics-research/afcars)

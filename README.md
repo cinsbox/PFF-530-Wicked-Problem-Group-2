@@ -14,7 +14,7 @@
 
 ### Team Presentation
 
-#### The presentation was recorded and uploaded to YouTube.  Time links are included to make viewing easier.  The link to the recording is [here.](https://youtu.be/QvB8B-CHNyE).  
+#### The presentation was recorded and uploaded to YouTube.  Time links are included to make viewing easier.  The link to the recording is [here.](https://youtu.be/QvB8B-CHNyE)
 
 #### The presentation is broken down into: 
 * Introduction
